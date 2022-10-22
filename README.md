@@ -1,4 +1,4 @@
-Install `imwheel`
+Install `imwheel` (APT available, tested: Ubuntu 20.04 )
 
 `chmod +x SCRIPT_NAME.sh`
 
